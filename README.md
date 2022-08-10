@@ -1,2 +1,2 @@
-# generation-assignment
+# generation-work
 Follow along assignment
