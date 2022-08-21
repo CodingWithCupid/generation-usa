@@ -1,2 +1,2 @@
-# generationUSA - Projects
+# Projects
 Follow along assignment
